@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="th">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>แนะนำอนิเมะ</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Link to external stylesheet -->
+    <link rel="stylesheet" type="text/css" href="style.css">
+    <!-- Optional: Link to JavaScript file -->
+    <script src="script.js" defer></script>
+</head>
+<body>
+    <!-- Banner Section -->
+    <div class="banner">
+        <img src="แนะนำอนิเมะ.jpg" alt="Anime Recommendations">
+    </div>
+
+    <!-- Main Content -->
+    <div class="parent">
+        <!-- Menu Section -->
+        <div class="menu">
+            <ul>
+                <li><a href="" class="active">แนะนำอนิเมะ</a></li>
+                <li><a href="">อนิเมะประจำวัน</a></li>
+                <li><a href="">ประเภทแนวอนิเมะ</a></li>
+                <li><a href="">รีวิวอนิเมะจากเพจเฟสบุค</a></li>
+                <li><a href="">ปีของอนิเมะ</a></li>
+            </ul>
+        </div>
+
+        <!-- Content Section -->
+        <div class="content">
+            <p>5555555555555555</p>
+        </div> 
+    </div>
+
+    <!-- Footer Section -->
+    <div class="footer">
+        <p>092-532-9732</p>
+    </div>
+</body>
+</html>
+
